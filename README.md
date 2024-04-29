@@ -20,8 +20,7 @@ To use this benchmark, you will need Python 3.6 or later. Additionally, dependin
 
 The dataset for this benchmark can be downloaded from the following link:
 
-<!-- [Download ExcluIR Dataset](https://drive.google.com/drive/folders/1O7IHuEHgjAHL6FCb8z5-zTI3YCqcA5J1?usp=sharing) -->
-Coming soon
+Coming soon~
 
 The dataset files should be extracted to the `src/data` directory.
 
