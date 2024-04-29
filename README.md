@@ -20,7 +20,8 @@ To use this benchmark, you will need Python 3.6 or later. Additionally, dependin
 
 The dataset for this benchmark can be downloaded from the following link:
 
-[Download ExcluIR Dataset](https://drive.google.com/drive/folders/1O7IHuEHgjAHL6FCb8z5-zTI3YCqcA5J1?usp=sharing)
+<!-- [Download ExcluIR Dataset](https://drive.google.com/drive/folders/1O7IHuEHgjAHL6FCb8z5-zTI3YCqcA5J1?usp=sharing) -->
+coming soon
 
 The dataset files should be extracted to the `src/data` directory.
 
@@ -42,15 +43,13 @@ python cross_eval.py # for cross-encoder models
 If you use this benchmark for your research, please cite our work using the following reference:
 
 ```bibtex
-@article{YourName2023EliminativeRetrieval,
-  title={A Benchmark for Evaluating Eliminative Retrieval Models},
-  author={Your Name and Collaborator's Name},
-  journal={Journal of Information Retrieval Research},
-  year={2023},
-  volume={XX},
-  number={XX},
-  pages={XX-XX},
-  doi={XX.XXXX/XXXXXX}
+@misc{zhang2024excluir,
+  title={ExcluIR: Exclusionary Neural Information Retrieval}, 
+  author={Wenhao Zhang and Mengqi Zhang and Shiguang Wu and Jiahuan Pei and Zhaochun Ren and Maarten de Rijke and Zhumin Chen and Pengjie Ren},
+  year={2024},
+  eprint={2404.17288},
+  archivePrefix={arXiv},
+  primaryClass={cs.IR}
 }
 ```
 
