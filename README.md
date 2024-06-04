@@ -1,6 +1,6 @@
 # ExcluIR: Exclusionary Neural Information Retrieval
 
-This repository provides a benchmark for evaluating the performance of retrieval models specifically in scenarios where users provide explicit indications about the information they wish to exclude from the retrieval results.
+This is the official repository for the paper "ExcluIR: Exclusionary Neural Information Retrieval". We provide a benchmark for evaluating the performance of retrieval models specifically in scenarios where users provide explicit indications about the information they wish to exclude from the retrieval results.
 
 ## About ExcluIR
 
@@ -8,7 +8,7 @@ In traditional retrieval tasks, the focus is on matching user queries with relev
 
 For more detailed information about this benchmark, please refer to our paper:
 
-[Link to the Paper](https://example.com/your-paper)
+[Link to the Paper](https://arxiv.org/abs/2404.17288)
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ To use this benchmark, you will need Python 3.6 or later. Additionally, dependin
 
 The dataset for this benchmark can be downloaded from the following link:
 
-Coming soon~
+Coming soon...
 
 The dataset files should be extracted to the `src/data` directory.
 
@@ -56,6 +56,6 @@ If you use this benchmark for your research, please cite our work using the foll
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
---- -->
+---
 
-We hope this benchmark will be a valuable resource for the community and lead to significant advancements in the field of information retrieval.
+We hope this benchmark will be a valuable resource for the community and lead to significant advancements in the field of information retrieval. -->
